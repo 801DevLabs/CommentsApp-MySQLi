@@ -1,0 +1,11 @@
+main {
+    margin-top: 80px;
+}
+
+.navbar-dark .navbar-brand {
+    font-weight: 700;
+    font-size: 18px;
+    font-family: 'Nunito', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
